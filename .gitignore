@@ -1,0 +1,17 @@
+# Data files (often too large for Git)
+*.csv
+*.xlsx
+*.parquet
+data/
+
+# Secrets
+.env
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
